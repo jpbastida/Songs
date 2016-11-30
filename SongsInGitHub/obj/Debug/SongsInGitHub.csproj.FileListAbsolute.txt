@@ -1,0 +1,6 @@
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\bin\Debug\SongsInGitHub.exe.config
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\bin\Debug\SongsInGitHub.exe
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\bin\Debug\SongsInGitHub.pdb
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\obj\Debug\SongsInGitHub.csprojResolveAssemblyReference.cache
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\obj\Debug\SongsInGitHub.exe
+D:\BrainAcademy\TareasInClass\Module2\SongsInGitHub\SongsInGitHub\obj\Debug\SongsInGitHub.pdb
